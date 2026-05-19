@@ -27,10 +27,23 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 
 ## Circuit Diagram : 
+**BALANCED LOAD:**
+
 <img width="1268" height="681" alt="Screenshot 2026-05-16 113536" src="https://github.com/user-attachments/assets/377fb4bc-597c-4ac4-9154-c39befff0253" />
 
+**UNBALANCED LOAD:**
+
+<img width="952" height="765" alt="WhatsApp Image 2026-05-16 at 6 02 59 PM" src="https://github.com/user-attachments/assets/70d790c2-81d9-489c-b5e1-6bc51c2751df" />
+
+
 ## Output Tabulation:
+**BALANCED LOAD:**
+
 <img width="578" height="266" alt="Screenshot 2026-05-16 113442" src="https://github.com/user-attachments/assets/df61abf6-2417-415f-bdf9-ccb3a0856f22" />
+
+**UNBALANCED LOAD:**
+
+<img width="755" height="243" alt="WhatsApp Image 2026-05-16 at 6 03 08 PM" src="https://github.com/user-attachments/assets/a43f038a-64a8-4b20-bbcd-a92ef78a714b" />
 
 
 ## Result:  
