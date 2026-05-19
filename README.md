@@ -33,6 +33,7 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 **UNBALANCED LOAD:**
 
+<img width="1247" height="788" alt="WhatsApp Image 2026-05-19 at 11 22 45 AM" src="https://github.com/user-attachments/assets/d37e353e-3fa9-4b3c-bef8-1bd8b04ebfc2" />
 
 
 ## Output Tabulation:
@@ -42,6 +43,7 @@ N.B.: Click on the fuse indicator to repair it, if it got fused.
 
 **UNBALANCED LOAD:**
 
+<img width="567" height="281" alt="WhatsApp Image 2026-05-19 at 11 22 46 AM" src="https://github.com/user-attachments/assets/cc93f3ba-0fc3-449a-900e-a57cb75f51f5" />
 
 
 ## Result:  
